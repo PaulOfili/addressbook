@@ -1,2 +1,2 @@
 # addressbook
-A client book
+A client addressbook done by using php and mysql stack
